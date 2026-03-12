@@ -50,7 +50,7 @@ Currently building a data analysis portfolio while transitioning into full-time 
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Inciarte-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Inciarte-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gainciarte)
 
 ---
 
