@@ -17,15 +17,15 @@ Currently building a data analysis portfolio while transitioning into full-time 
 
 ---
 
-## 📊 Portfolio — Data Analysis Projects
+## 📊 Portfolio - Data Analysis Projects
 
 > A collection of end-to-end data analysis projects across multiple tools.  
 > Each project uses real-world datasets from logistics, supply chain, and e-commerce.
 
 | # | Tool | Project | Status |
 |---|---|---|---|
-| 01 | 📗 Excel | Inventory Control — ABC/XYZ Analysis | ✅ Complete |
-| 02 | 📗 Excel | KPI Dashboard | 🔄 In progress |
+| 01 | 📗 Excel | Inventory Control - ABC/XYZ Analysis | ✅ Complete |
+| 02 | 📗 Excel | KPI Dashboard - Walmart Sales | ✅ Complete |
 | 03 | 📗 Excel | Demand Forecast | ⏳ Upcoming |
 | 04 | 📗 Excel | Supplier Evaluation | ⏳ Upcoming |
 | 05 | 📗 Excel | Budget Tracking | ⏳ Upcoming |
@@ -50,7 +50,7 @@ Currently building a data analysis portfolio while transitioning into full-time 
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Inciarte-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gainciarte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Inciarte-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gainciarte)
 
 ---
 
