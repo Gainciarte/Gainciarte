@@ -27,7 +27,7 @@ Currently building a data analysis portfolio while transitioning into full-time 
 | 01 | 📗 Excel | Inventory Control - ABC/XYZ Analysis | ✅ Complete |
 | 02 | 📗 Excel | KPI Dashboard - Walmart Sales | ✅ Complete |
 | 03 | 📗 Excel | Inventory Parameters - Safety Stock, EOQ & Value at Risk | ✅ Complete |
-| 04 | 📗 Excel | Supplier Evaluation | ⏳ Upcoming |
+| 04 | 📗 Excel | Supplier Evaluation - MCDM Weighted Scoring Model | ✅ Complete |
 | 05 | 📗 Excel | Budget Tracking | ⏳ Upcoming |
 | 06 | 🐍 Python | Sales EDA | ⏳ Upcoming |
 | 07 | 📊 Tableau | Logistics Dashboard | ⏳ Upcoming |
