@@ -29,11 +29,12 @@ Currently building a data analysis portfolio while transitioning into full-time 
 | 03 | 📗 Excel | Inventory Parameters - Safety Stock, EOQ & Value at Risk | ✅ Complete |
 | 04 | 📗 Excel | Supplier Evaluation - MCDM Weighted Scoring Model | ✅ Complete |
 | 05 | 📗 Excel | Budget Tracking - Budget vs Actual Variance Analysis | ✅ Complete |
-| 06 | 🐍 Python | Sales EDA | ⏳ Upcoming |
-| 07 | 📊 Tableau | Logistics Dashboard | ⏳ Upcoming |
-| 08 | 📈 Power BI | Warehouse KPIs | ⏳ Upcoming |
-| 09 | 🗄️ SQL | Inventory Queries | ⏳ Upcoming |
-| 10 | 🤖 Machine Learning | Demand Forecasting | ⏳ Upcoming |
+| 06 | 🐍 Python | Sales EDA | ✅ Complete |
+| 07 | 🐍 Python | Inventory Optimization | ⏳ Upcoming |
+| 11 | 📊 Tableau | Logistics Dashboard | ⏳ Upcoming |
+| 16 | 📈 Power BI | Warehouse KPIs | ⏳ Upcoming |
+| 21 | 🗄️ SQL | Inventory Queries | ⏳ Upcoming |
+| 26 | 🤖 Machine Learning | Demand Forecasting | ⏳ Upcoming |
 
 👉 [View full portfolio](https://github.com/Gainciarte/data_analysis_projects)
 
