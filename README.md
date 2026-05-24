@@ -33,6 +33,8 @@ Building a data analysis portfolio with real-world projects across Excel, Python
 | 📗 **Excel** | [Budget Tracking](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/05_budget_tracking) | Budget vs actual variance analysis with executive dashboard |
 | 🐍 **Python** | [Sales EDA](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/01_sales_eda) | Exploratory analysis on Amazon sales: discounts, ratings & patterns |
 | 🐍 **Python** | [Inventory Optimization](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/02_inventory_optimization) | EOQ, Safety Stock & Reorder Point calculation for 303 SKUs with ABC classification |
+| 🐍 **Python** | [Web Scraping](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/03_web_scraping) | End-to-end scraping pipeline: HTTP requests, HTML parsing, pagination & analysis |
+| 🐍 **Python** | [ETL Pipeline](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/04_etl_pipeline) | ETL on 9-file relational dataset (Olist, 100K orders): pandas transforms & SQLite load via SQLAlchemy |
 
 ### 🔜 Coming Soon
 
