@@ -28,13 +28,14 @@ Building a data analysis portfolio with real-world projects across Excel, Python
 |---|---|---|
 | 📗 **Excel** | [Inventory Control](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/01_inventory_control) | ABC/XYZ analysis on 7,116 SKUs with demand variability classification |
 | 📗 **Excel** | [KPI Dashboard](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/02_kpi_dashboard) | Walmart sales dashboard: 45 stores, 3 years, holiday impact analysis |
-| 📗 **Excel** | [Inventory Parameters](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/03_demand_forecast) | Safety stock, reorder point, EOQ for 290 SKUs |
+| 📗 **Excel** | [Inventory Parameters](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/03_inventory_parameters) | Safety stock, reorder point, EOQ for 290 SKUs |
 | 📗 **Excel** | [Supplier Evaluation](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/04_supplier_evaluation) | MCDM weighted scoring model for 35 suppliers |
 | 📗 **Excel** | [Budget Tracking](https://github.com/Gainciarte/data_analysis_projects/tree/main/excel/05_budget_tracking) | Budget vs actual variance analysis with executive dashboard |
 | 🐍 **Python** | [Sales EDA](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/01_sales_eda) | Exploratory analysis on Amazon sales: discounts, ratings & patterns |
 | 🐍 **Python** | [Inventory Optimization](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/02_inventory_optimization) | EOQ, Safety Stock & Reorder Point calculation for 303 SKUs with ABC classification |
 | 🐍 **Python** | [Web Scraping](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/03_web_scraping) | End-to-end scraping pipeline: HTTP requests, HTML parsing, pagination & analysis |
 | 🐍 **Python** | [ETL Pipeline](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/04_etl_pipeline) | ETL on 9-file relational dataset (Olist, 100K orders): pandas transforms & SQLite load via SQLAlchemy |
+| 🐍 **Python** | [Predictive Maintenance](https://github.com/Gainciarte/data_analysis_projects/tree/main/python/05_predictive_maintenance) | Machine failure classification under severe class imbalance: Logistic Regression vs Random Forest (ROC-AUC 0.978) |
 
 ### 🔜 Coming Soon
 
