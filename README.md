@@ -1,7 +1,7 @@
 # Hi, I'm Gustavo 👋
 
 **Supply Chain & Inventory Analyst** with 8+ years in logistics, warehousing and procurement (mining, Oil & Gas, manufacturing), adding data analysis tools to that background.  
-Portfolio of 26 real-world projects across Excel, Python, SQL, Power BI, Machine Learning and Tableau, built on public logistics, supply chain and operations datasets.
+Portfolio of 27 real-world projects across Excel, Python, SQL, Power BI, Machine Learning and Tableau, built on public logistics, supply chain and operations datasets.
 
 ---
 
@@ -21,7 +21,7 @@ Portfolio of 26 real-world projects across Excel, Python, SQL, Power BI, Machine
 
 > End-to-end projects on real public datasets from logistics, supply chain and operations. Each project has its own README with objectives, method, screenshots, findings and limitations; synthetic data is labeled as such.
 
-**26 projects built** (5 Excel, 5 Python, 5 SQL, 5 Machine Learning, 5 Power BI and 1 of 5 Tableau). The Power BI projects are saved as Git-friendly `.pbip` files. The SQL projects were tested on PostgreSQL; a MySQL version is planned.
+**27 projects built** (5 Excel, 5 Python, 5 SQL, 5 Machine Learning, 5 Power BI and 2 of 5 Tableau). The Power BI projects are saved as Git-friendly `.pbip` files. The SQL projects were tested on PostgreSQL; a MySQL version is planned.
 
 | Tool | Project | Description |
 |---|---|---|
@@ -51,10 +51,11 @@ Portfolio of 26 real-world projects across Excel, Python, SQL, Power BI, Machine
 | 📊 **Power BI** | [HR Headcount](https://github.com/Gainciarte/data_analysis_projects/tree/main/powerbi/04_hr_headcount) | Workforce profile and attrition drivers (fictional sample, flagged) |
 | 📊 **Power BI** | [Operational Costs](https://github.com/Gainciarte/data_analysis_projects/tree/main/powerbi/05_operational_costs) | Freight and insurance by mode, weight band and country |
 | 📈 **Tableau** | [Logistics Dashboard](https://github.com/Gainciarte/data_analysis_projects/tree/main/tableau/01_logistics_dashboard) | On-time delivery, late rate by transport mode and freight cost (USAID SCMS, 10,324 order lines) |
+| 📈 **Tableau** | [Sales Performance](https://github.com/Gainciarte/data_analysis_projects/tree/main/tableau/02_sales_performance) | Walmart sales: store ranking, holiday-week uplift and sales by temperature, fuel price and unemployment band (45 stores, 6,435 store-weeks) |
 
 ### 🔜 In progress
 
-**Tableau:** 4 more dashboards (Sales Performance, Customer Segmentation, Supply Chain Map, Financial Overview), one added per day.
+**Tableau:** 3 more dashboards (Customer Segmentation, Supply Chain Map, Financial Overview), one added per day.
 
 👉 **[View Full Portfolio Repository](https://github.com/Gainciarte/data_analysis_projects)**
 
